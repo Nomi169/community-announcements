@@ -1,0 +1,87 @@
+{
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Welcome to Our Community Platform",
+      "description": "We are thrilled to launch this new community announcements platform. Stay tuned for updates, events, and important alerts from your neighborhood. This platform will be your go-to source for everything happening around you.",
+      "category": "news",
+      "views": 143,
+      "pinned": true,
+      "author": "Admin",
+      "created_at": "2026-04-28T10:58:50.598Z",
+      "updated_at": "2026-04-28T10:58:50.598Z"
+    },
+    {
+      "id": 2,
+      "title": "Summer Festival 2024",
+      "description": "Join us for the annual summer festival at Central Park on July 15th. Enjoy live music performances, local food stalls, art exhibitions, and activities for all ages. Free entry for all residents with valid ID!",
+      "category": "events",
+      "views": 90,
+      "pinned": false,
+      "author": "Admin",
+      "created_at": "2026-04-28T10:58:50.598Z",
+      "updated_at": "2026-04-28T10:58:50.598Z"
+    },
+    {
+      "id": 3,
+      "title": "Water Supply Maintenance Alert",
+      "description": "Scheduled maintenance on the water supply network will take place on June 28th from 9AM to 3PM. Residents in the east and central zones may experience disruptions. Please store sufficient water beforehand.",
+      "category": "alerts",
+      "views": 203,
+      "pinned": true,
+      "author": "Admin",
+      "created_at": "2026-04-28T10:58:50.598Z",
+      "updated_at": "2026-04-28T10:58:50.598Z"
+    },
+    {
+      "id": 4,
+      "title": "Community Clean-Up Drive",
+      "description": "Volunteers needed for the monthly neighborhood clean-up on the first Saturday of July. Gloves and equipment provided. Meet at the town square at 8AM. Refreshments served for all participants.",
+      "category": "events",
+      "views": 58,
+      "pinned": false,
+      "author": "Admin",
+      "created_at": "2026-04-28T10:58:50.598Z",
+      "updated_at": "2026-04-28T10:58:50.598Z"
+    },
+    {
+      "id": 5,
+      "title": "New Bus Route Announced",
+      "description": "The city has announced a new bus route (Route 47) connecting the east residential area to the central market, starting August 1st. Buses every 20 minutes from 6AM to 10PM on weekdays.",
+      "category": "news",
+      "views": 78,
+      "pinned": false,
+      "author": "Admin",
+      "created_at": "2026-04-28T10:58:50.598Z",
+      "updated_at": "2026-04-28T10:58:50.598Z"
+    },
+    {
+      "id": 6,
+      "title": "AI React",
+      "description": "Ai eaten humans dfl sdafafl ksdafsadfsdalkfsdklfsdajf ;sdakfl ads;fadsfksdafsdafdasklfjasdf;lksda jflaf  sdlak jfpsadfoihaspi ff da sfpasoif hapsofa spfoidash fpads fanf paof hpaohf apdfhaspd ofaof",
+      "category": "alerts",
+      "pinned": false,
+      "author": "Admin",
+      "views": 1,
+      "created_at": "2026-04-28T11:48:54.064Z",
+      "updated_at": "2026-04-28T11:48:54.064Z"
+    }
+  ],
+  "subscribers": [
+    {
+      "id": 1,
+      "email": "nomi@gmail.com",
+      "categories": "events,alerts,news",
+      "subscribed_at": "2026-04-28T11:50:14.433Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2a$10$dusRqC9nqWtNODOhXHCM.u/dfX9exTfRfax7h.xoZwBmrKL/MAtn6"
+    }
+  ],
+  "nextAnnouncementId": 7,
+  "nextSubscriberId": 2
+}
